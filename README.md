@@ -1,6 +1,5 @@
 # Generating_ContextFreeGrammer_Using_NLP
 
-# Generating_ContextFreeGrammer_Using_NLP
 
 The following objectives are covered in the notebook:
 
